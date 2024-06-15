@@ -1,0 +1,1 @@
+download checkpoints:  https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints
